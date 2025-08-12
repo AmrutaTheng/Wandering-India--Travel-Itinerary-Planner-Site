@@ -1,5 +1,5 @@
 ## Wandering-India--Travel-Itinerary-Planner-Site
-## Wandering India - Travel Planner Itinerary Site
+
 
 A simple and user-friendly travel planner itinerary website that helps users plan their trips based on their budget, desired destination, and number of days. Built using basic HTML and CSS, this project provides a smooth and responsive user interface for planning travel itineraries.
 
